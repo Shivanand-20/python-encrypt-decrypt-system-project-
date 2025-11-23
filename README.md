@@ -27,6 +27,14 @@ Code-
 Output-
 <img width="975" height="409" alt="image" src="https://github.com/user-attachments/assets/28f50192-e5af-4090-b67f-78f6b099e111" />
 <img width="975" height="387" alt="image" src="https://github.com/user-attachments/assets/f1fcf0cd-749b-4485-8782-f7d430157bae" />
+
+flowchart-
+<img width="722" height="1051" alt="image" src="https://github.com/user-attachments/assets/085863dd-21a8-4b9f-b4d9-98c8d542fd9f" />
+Encrypt-
+<img width="975" height="581" alt="image" src="https://github.com/user-attachments/assets/0b027005-dc65-4759-9235-27482203b74b" />
+Decrypt-
+<img width="975" height="563" alt="image" src="https://github.com/user-attachments/assets/8a94c79a-60c1-4557-88b0-e7cb658874b5" />
+
 Algorithm-
 Step 1: Start
 Step 2: Ask user
